@@ -1,30 +1,38 @@
-id: "fabcity-challenge"
+id: fabcity-challenge
 orientation: inverted
-sectioncolor: 'blue'
+sectioncolor: blue
 hascolorbg: true
-image: 'challenge.jpg'
+image: /uploads/challenge.jpg
 imgwidth: '492'
 imgheight: '520'
 haslargetitle: true
-largetitle: 'Fab City Challenge'
+largetitle: Fab City Challenge
 hassmalltitle: false
-smalltitle: ''
+smalltitle:
 hasdescription: true
-description: 'Fab City Global Initiative challenges the current industrial paradigm of Product-in Trash-out, by advocating for the return of manufacture to cities supported by a Data-in Data-out urban model. It  comprises a <a class="underlined-blue page-scroll" href="#global-initiative">network</a> of 28 cities, a <a class="underlined-blue page-scroll" href="#fab-city-collective">core team of collective members</a> and is governed by a foundation, all working to change the urban paradigm of yesterday, and make the cities of tomorrow.'
+description: >-
+  Fab City Global Initiative challenges the current industrial paradigm of
+  Product-in Trash-out, by advocating for the return of manufacture to cities
+  supported by a Data-in Data-out urban model. It  comprises a <a
+  class="underlined-blue page-scroll" href="#global-initiative">network</a> of
+  28 cities, a <a class="underlined-blue page-scroll"
+  href="#fab-city-collective">core team of collective members</a> and is
+  governed by a foundation, all working to change the urban paradigm of
+  yesterday, and make the cities of tomorrow.
 hasbutton: true
-buttonaction: "Read the"
-buttontitle: "White Paper"
-buttonlink: "uploads/whitepaper.pdf"
+buttonaction: Read the
+buttontitle: White Paper
+buttonlink: uploads/whitepaper.pdf
 hasdownload: true
-filename: "whitepaper.pdf"
+filename: whitepaper.pdf
 haslogos: false
 logostitle:
 logos:
-  - name: ""
-    logo: ''
-    url: ""
+  - name:
+    logo:
+    url:
 hasextraaction: false
-extraaction: ''
-extraactionlink: ''
+extraaction:
+extraactionlink:
 hasdivisionline: true
 hasleftcolorblock: false
