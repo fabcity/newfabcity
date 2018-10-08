@@ -1,44 +1,47 @@
-id: "common-knowledge"
+id: common-knowledge
 orientation: normal
-sectioncolor: 'green'
+sectioncolor: green
 hascolorbg: false
-image: 'common-knowledge.jpg'
+image: /uploads/common-knowledge.jpg
 imgwidth: '533'
 imgheight: '389'
 haslargetitle: false
 hassmalltitle: true
-smalltitle: 'Common knowledge'
+smalltitle: Common knowledge
 hasdescription: true
-description: "As a global network, we are connected through the knowledge we share, across common tools and platforms."
+description: >-
+  As a global network, we are connected through the knowledge we share, across
+  common tools and platforms.
 hasbutton: true
-buttonaction: "Access the"
-buttontitle: "Slide Deck"
-buttonlink: "https://github.com/fabcity/toolkit/blob/master/Outreach%20-%20Fab%20City%20Presentation.pdf"
+buttonaction: Access the
+buttontitle: Slide Deck
+buttonlink: >-
+  https://github.com/fabcity/toolkit/blob/master/Outreach%20-%20Fab%20City%20Presentation.pdf
 hasdownload: false
 filename:
 hasiconbox: false
-iconboxtitle: ""
+iconboxtitle:
 icons:
-  - name: ""
-    img: 
-    url: ""
+  - name:
+    img:
+    url:
 haslogos: true
-logostitle: "Platforms:"
+logostitle: 'Platforms:'
 logos:
-  - name: "Distributed Design"
+  - name: Distributed Design
     logo: ddmp-logo.png
-    url: "http://distributeddesign.eu/"
-  - name: "Fablabs.io"
+    url: 'http://distributeddesign.eu/'
+  - name: Fablabs.io
     logo: fablabsio-logo.svg
-    url: "https://www.fablabs.io/labs"
-  - name: "Materiom"
+    url: 'https://www.fablabs.io/labs'
+  - name: Materiom
     logo: materiom-logo.svg
-    url: "http://www.materiom.org/"
-  - name: "Smart Citizen"
+    url: 'http://www.materiom.org/'
+  - name: Smart Citizen
     logo: smart-citizen-logo.png
-    url: "https://smartcitizen.me/"
+    url: 'https://smartcitizen.me/'
 hasextraaction: false
-extraaction: ''
-extraactionlink: ''
+extraaction:
+extraactionlink:
 hasdivisionline: false
 hasleftcolorblock: false
