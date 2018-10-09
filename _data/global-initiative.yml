@@ -15,7 +15,7 @@ cities:
     strategicfocus: ""
     orgtype: "Consortium"
     org: ""
-    joined:
+    joined: 2018
   - name: "Bhutan"
     place: left
     id: "bhutan"
@@ -23,7 +23,7 @@ cities:
     strategicfocus: ""
     orgtype: "Consortium"
     org: "Ministry of Education | Ministry of Labour and Human Resources | Royal University of Bhutan | Ministry of Agriculture | Fablab Bhutan"
-    joined:
+    joined: 2016
   - name: "Shenzhen"
     place: left
     id: "shenzhen"
@@ -31,7 +31,7 @@ cities:
     strategicfocus: ""
     orgtype: "Consortium"
     org: "Shenzhen Open Innovation Lab | Shenzhen Industrial Design Association"
-    joined:
+    joined: 2015
   - name: "Georgia"
     place: left
     id: "georgia"
@@ -39,7 +39,7 @@ cities:
     strategicfocus: ""
     orgtype: "Consortium"
     org: "LEPL. Georgia's innovation and technology agency"
-    joined:
+    joined: 2015
   - name: "Curitiba"
     place: left
     id: "Curitiba"
@@ -47,7 +47,7 @@ cities:
     strategicfocus: ""
     orgtype: "Consortium"
     org: "Agência Curitiba | We Fab | Curitiba City Hall | iCities"
-    joined:
+    joined: 2017
   - name: "Occitanie Region"
     place: left
     id: "occitanie"
@@ -95,7 +95,7 @@ cities:
     strategicfocus: ""
     orgtype: "Consortium"
     org: ""
-    joined:
+    joined: 2015
   - name: "Kerala"
     place: left
     id: "kerala"
@@ -103,7 +103,7 @@ cities:
     strategicfocus: ""
     orgtype: "Consortium"
     org: "Kerala Startup Mission"
-    joined:
+    joined: 2015
   - name: "Sacramento"
     place: left
     id: "sacramento"
@@ -111,7 +111,7 @@ cities:
     strategicfocus: ""
     orgtype: "Consortium"
     org: ""
-    joined:
+    joined: 2016
   - name: "Belo-Horizonte"
     place: right
     id: "belohorizonte"
@@ -127,7 +127,7 @@ cities:
     strategicfocus: ""
     orgtype: "Consortium"
     org: ""
-    joined:
+    joined: 2015
   - name: "Brest"
     place: right
     id: "Brest"
@@ -143,7 +143,7 @@ cities:
     strategicfocus: ""
     orgtype: "Consortium"
     org: ""
-    joined:
+    joined: 2015
   - name: "Toulouse"
     place: right
     id: "toulouse"
@@ -167,7 +167,7 @@ cities:
     strategicfocus: ""
     orgtype: "Consortium"
     org: "Fab Lab Santiago | SE Santiago | Escuela de Diseño UC | Distributed Design Foundation"
-    joined:
+    joined: 2016
   - name: "Velsen"
     place: right
     id: "velsen"
@@ -199,7 +199,7 @@ cities:
     strategicfocus: ""
     orgtype: "Consortium"
     org: "FabVille"
-    joined:
+    joined: 2015
   - name: "Detroit"
     place: right
     id: "detroit"
@@ -207,7 +207,7 @@ cities:
     strategicfocus: ""
     orgtype: "Consortium"
     org: ""
-    joined:
+    joined: 2016
   - name: "Kamakura"
     place: right
     id: "kamakura"
