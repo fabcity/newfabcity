@@ -1,10 +1,12 @@
-id: "fab-city-foundation"
-sectioncolor: 'red'
+id: fab-city-foundation
+sectioncolor: red
 hastitle: true
-title: 'Fab City Foundation'
+title: Fab City Foundation
 hasdescription: true
-description: "Fab City was founded by key partners in 2014. In 2018 the Fab City Foundation was founded."
+description: >-
+  Fab City was founded by key partners in 2014. In 2018 the Fab City Foundation
+  was founded to facilitate and actualise the work of the global initiative.
 hasbutton: false
-buttonaction: "Governance"
-buttontitle: "Model"
-buttonlink: "uploads/"
+buttonaction: Governance
+buttontitle: Model
+buttonlink: uploads/
