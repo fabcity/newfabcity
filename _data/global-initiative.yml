@@ -355,7 +355,7 @@ cities:
     coordinates: "8.0522° S, 34.9286° W"
     webpresence: ""
 
- - name: "Linz"
+  - name: "Linz"
     place: right
     id: "linz"
     country: "Austria"
@@ -366,7 +366,7 @@ cities:
     coordinates: "48.3069°N, 14.2858°E"
     webpresence: ""
     
- - name: "Zadar"
+  - name: "Zadar"
     place: right
     id: "zadar"
     country: "Croatia"
@@ -377,7 +377,7 @@ cities:
     coordinates: "44.1194°N, 15.2314°E"
     webpresence: ""
     
- - name: "Valence Romans Agglo"
+  - name: "Valence Romans Agglo"
     place: left
     id: "Valence Romans Agglo"
     country: "France"
@@ -388,7 +388,7 @@ cities:
     coordinates: "44.9271°N, 4.9228°E"
     webpresence: ""
     
- - name: "Bas-Saint-Laurent"
+  - name: "Bas-Saint-Laurent"
     place: left
     id: "Bas-Saint-Laurent"
     country: "Canada"
