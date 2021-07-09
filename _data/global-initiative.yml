@@ -389,7 +389,7 @@ cities:
     webpresence: ""
     
   - name: "Bas-Saint-Laurent"
-    place: left
+    place: right
     id: "Bas-Saint-Laurent"
     country: "Canada"
     strategicfocus: ""
